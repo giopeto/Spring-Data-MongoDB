@@ -1,0 +1,16 @@
+/home/georgy/workspace/Spring Data Mongo/src/main/java/com/lishman/springdata/template/TemplatePackage.java
+/home/georgy/workspace/Spring Data Mongo/src/main/java/com/lishman/springdata/domain/Continent.java
+/home/georgy/workspace/Spring Data Mongo/src/main/java/com/lishman/springdata/repository/ContinentRepository.java
+/home/georgy/workspace/Spring Data Mongo/src/main/java/com/lishman/springdata/repository/CountryRepository.java
+/home/georgy/workspace/Spring Data Mongo/src/main/java/com/lishman/springdata/template/Queries.java
+/home/georgy/workspace/Spring Data Mongo/src/main/java/com/lishman/springdata/domain/City.java
+/home/georgy/workspace/Spring Data Mongo/src/main/java/src/main/test/java/com/lishman/springdata/repository/CityRepositoryTest.java
+/home/georgy/workspace/Spring Data Mongo/src/main/java/com/lishman/springdata/domain/AbstractDocument.java
+/home/georgy/workspace/Spring Data Mongo/src/main/java/com/lishman/springdata/domain/Ocean.java
+/home/georgy/workspace/Spring Data Mongo/src/main/java/com/lishman/springdata/domain/Country.java
+/home/georgy/workspace/Spring Data Mongo/src/main/java/com/lishman/springdata/config/MongoConfig.java
+/home/georgy/workspace/Spring Data Mongo/src/main/java/com/lishman/springdata/domain/OlympicMedals.java
+/home/georgy/workspace/Spring Data Mongo/src/main/java/com/lishman/springdata/repository/CityRepository.java
+/home/georgy/workspace/Spring Data Mongo/src/main/java/com/lishman/springdata/repository/RepositoryPackage.java
+/home/georgy/workspace/Spring Data Mongo/src/main/java/GettingStarted.java
+/home/georgy/workspace/Spring Data Mongo/src/main/java/com/lishman/springdata/template/Crud.java
